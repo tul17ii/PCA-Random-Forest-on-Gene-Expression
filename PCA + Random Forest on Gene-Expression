@@ -1,0 +1,1 @@
+This repo is a compact, end-to-end ML pipeline that classifies cell-line samples from a public gene-expression matrix. It goes from raw TSV → clean features/labels → PCA visualization → Random Forest training → evaluation and explainability.
